@@ -1,0 +1,75 @@
+Introduction:
+Fresher aims to simplify the process of setting up a ready-to-work environment on a fresh Ubuntu installation. 
+Inspired by Omakub, it provides a streamlined, opinionated setup that includes essential 
+tools and configurations to create a modern, efficient, and visually appealing workable system. 
+By running a single command, developers can bypass the tedious process of manual configuration 
+and stay updated with the latest tools.
+
+Key Features:
+
+    Single Command Setup:
+        Fresher installs and configures a complete web development environment with just one command, 
+        saving time and effort.
+
+    Inspired by Omakub:
+        Leveraging the principles and efficiency of Omakub, 
+        Fresher ensures a polished and robust setup.
+
+    No Bespoke Configs Required:
+        Avoid the need for custom configurations for each tool. 
+        Fresher's opinionated setup handles everything.
+
+    Essential Tools Included:
+        Includes a curated selection of essential tools for a ready-to-work environment, 
+        ensuring you have what you need right from the start.
+
+    Staying Updated:
+        Regular updates ensure that your environment remains current 
+        with the latest command-line tools and best practices.
+
+Tools and Configurations Provided:
+
+    Package Managers: APT, Snap, NPM
+    Version Control: Git, GitHub CLI
+    Programming Languages: Node.js, Python, Ruby
+    Text Editors and IDEs: Visual Studio Code, Vim
+    Web Browsers: Firefox Developer Edition, Chromium
+    Containerization: Docker, Docker Compose
+    Database Tools: MySQL, PostgreSQL
+    Multimedia Tools: Kdenlive, OBS Studio, OpenShot, GIMP
+    Others: Zsh with Oh My Zsh, tmux, curl, wget
+
+Installation Guide:
+
+    Prepare Your System:
+        Start with a fresh installation of Ubuntu.
+        Ensure your system is connected to the internet.
+
+    Run the Fresher Command:
+
+    wget -qO- https://fresher.juma.com.ng/install | bash
+
+    Follow On-Screen Prompts:
+        The script will prompt you for necessary inputs and guide you through the setup process.
+
+    Complete the Setup:
+        Once the installation is complete, restart your system to apply all changes.
+
+Customization:
+
+    While Fresher provides an opinionated setup, it also allows for post-installation customization. 
+    Modify configurations or install additional tools as per your preference.
+
+Conclusion:
+
+Fresher is designed to streamline the setup process for different Ubuntu users, 
+offering a comprehensive, up-to-date, and visually appealing development environment. 
+By reducing setup time and ensuring consistency, Fresher allows:
+developers to focus on what they do best: coding.
+researchers to focus on what they do best: researching.
+designers to focus on what they do best: designing.
+and many more... 
+
+git remote add origin https://github.com/MuhammadAKJ/r.git
+git branch -M main
+git push -u origin main
